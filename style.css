@@ -1,0 +1,26 @@
+.text-white{
+    color :#FFF;
+}
+
+h1{
+    font-size: 36px;
+}
+
+.bg-partenaires{
+    background-image: url(images/bg-image-2.webp);
+    background-size: cover;
+}
+
+.bg-hero{
+    background-image: url(images/bg-image-hero.webp);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.bouton-noir{
+    background-color: black;
+    color: #FFF;
+    text-decoration: none;
+    padding: 12px;
+}
